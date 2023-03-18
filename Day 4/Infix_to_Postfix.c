@@ -87,4 +87,4 @@ int main()
         printf("%c", var.operand[i]);
     }
     printf("\n");
-}3
+}
